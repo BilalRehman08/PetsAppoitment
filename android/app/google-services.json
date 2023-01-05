@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347503185594",
+    "project_id": "stackedflutter",
+    "storage_bucket": "stackedflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347503185594:android:590417cc388771848b7c83",
+        "android_client_info": {
+          "package_name": "com.example.stackedpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347503185594-pceg4q456msfh2lecs5tv3d7epijmk7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKpsPhFTTwuSDI4oGtSLzBLS5mXUNLMLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347503185594-pceg4q456msfh2lecs5tv3d7epijmk7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
